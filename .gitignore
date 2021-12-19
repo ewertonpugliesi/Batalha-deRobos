@@ -50,3 +50,5 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+*.class
+Robotron/ProvaNP2/RobotronSII.java
